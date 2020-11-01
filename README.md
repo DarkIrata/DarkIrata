@@ -22,15 +22,15 @@
 
 ### Languages, Frameworks, etc:
 
-[<img alt="dotnet" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dot-net.svg" />](#)
-[<img alt="C#" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg" />](#)
-[<img alt="Xamarin" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xamarin.svg" />](#)
-[<img alt="XAML" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xaml.svg" />](#)
-[<img alt="Docker" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg" />](#)
-[<img alt="Html" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />](#)
-[<img alt="CSS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />](#)
-[<img alt="Pomelo.EntityFrameworkCore.MySql" width="26px" src="https://raw.githubusercontent.com/PomeloFoundation/Pomelo.EntityFrameworkCore.MySql/master/icon.png" />](https://github.com/PomeloFoundation/Pomelo.EntityFrameworkCore.MySql)
-[<img alt="Material Design in XAML" width="26px" src="http://materialdesigninxaml.net/images/MD4XAML.png" />](http://materialdesigninxaml.net/)
+[<img align="center" alt="dotnet" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dot-net.svg" />](#)
+[<img align="center" alt="C#" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg" />](#)
+[<img align="center" alt="Xamarin" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xamarin.svg" />](#)
+[<img align="center" alt="XAML" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xaml.svg" />](#)
+[<img align="center" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg" />](#)
+[<img align="center" alt="Html" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />](#)
+[<img align="center" alt="CSS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />](#)
+[<img align="center" alt="Pomelo.EntityFrameworkCore.MySql" width="26px" src="https://raw.githubusercontent.com/PomeloFoundation/Pomelo.EntityFrameworkCore.MySql/master/icon.png" />](https://github.com/PomeloFoundation/Pomelo.EntityFrameworkCore.MySql)
+[<img align="center" alt="Material Design in XAML" width="26px" src="http://materialdesigninxaml.net/images/MD4XAML.png" />](http://materialdesigninxaml.net/)
 
 <br />
 
