@@ -32,11 +32,12 @@
 
 ### Devices:
 
-|   | <img align="left" alt="Windows" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/windows.svg" /> | <img align="left" alt="Windows" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ubuntu.svg" /> |
-|:---:|:-------:|:-------:|
-|   |       |       |
-|   |       |       |
-|   |       |       |
+|   | <img alt="Windows" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/windows.svg" /> | <img alt="Linux Ubuntu" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ubuntu.svg" /> |
+| :---- | :----: | :----: |
+| CPU | <img alt="AMD" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/amd.svg" /> Ryzen 3800X | - |
+| GPU | <img alt="NVidia" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/nvidia.svg" /> GeForce GTX 1070 | - |
+| RAM | 2x16GB CL16 @ 3200 MHz | - |
+| Motherboard | Gigabyte X570 AORUS MASTER | - |
 
 
 [twitter]: https://twitter.com/DarkIrata
