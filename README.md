@@ -26,7 +26,6 @@
 [<img align="left" alt="C#" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg" />][visualstudio]
 [<img align="left" alt="Xamarin" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xamarin.svg" />][visualstudio]
 [<img align="left" alt="XAML" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xaml.svg" />][visualstudio]
-[<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />](https://www.docker.com/)
 [<img align="left" alt="Pomelo.EntityFrameworkCore.MySql" width="26px" src="https://raw.githubusercontent.com/PomeloFoundation/Pomelo.EntityFrameworkCore.MySql/master/icon.png" />](https://github.com/PomeloFoundation/Pomelo.EntityFrameworkCore.MySql)
 [<img align="left" alt="Material Design in XAML" width="26px" src="http://materialdesigninxaml.net/images/MD4XAML.png" />](http://materialdesigninxaml.net/)
 
@@ -39,6 +38,7 @@
 [<img align="left" alt="GitExtensions" width="26px" src="https://camo.githubusercontent.com/b84cf97f7183a8c566d21358965af6ad2a01cf6f/68747470733a2f2f63646e2e7261776769742e636f6d2f676974657874656e73696f6e732f676974657874656e73696f6e732f6d61737465722f4c6f676f2f6769742d657874656e73696f6e732d6c6f676f2e737667" />][gitextensions]
 [<img align="left" alt="cmder" width="26px" src="https://raw.githubusercontent.com/cmderdev/cmder/master/icons/cmder.ico" />][cmder]
 [<img align="left" alt="unity" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/unity.svg" />][unity]
+[<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][docker]
 
 <br />
 
@@ -53,7 +53,6 @@
 
 Also a big fan of [<img alt="Raspberry Pi" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/raspberrypi.svg" />][rasperrypi] Projects & Home Automation with [<img alt="Home Assistant" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/homeassistant.svg" />][hassio]
 
-
 [twitter]: https://twitter.com/DarkIrata
 [github]: https://github.com/DarkIrata
 [gitlab]: https://gitlab.com/DarkIrata
@@ -64,3 +63,4 @@ Also a big fan of [<img alt="Raspberry Pi" width="24px" src="https://cdn.jsdeliv
 [steam]: https://steamcommunity.com/id/DarkIrata/
 [rasperrypi]: https://www.raspberrypi.org/
 [hassio]: https://www.home-assistant.io/
+[docker]: https://www.docker.com
