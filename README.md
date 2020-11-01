@@ -22,15 +22,13 @@
 
 ### Languages, Frameworks, etc:
 
-[<img align="center" alt="dotnet" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dot-net.svg" />](#)
-[<img align="center" alt="C#" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg" />](#)
-[<img align="center" alt="Xamarin" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xamarin.svg" />](#)
-[<img align="center" alt="XAML" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xaml.svg" />](#)
-[<img align="center" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg" />](#)
-[<img align="center" alt="Html" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />](#)
-[<img align="center" alt="CSS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />](#)
-[<img align="center" alt="Pomelo.EntityFrameworkCore.MySql" width="26px" src="https://raw.githubusercontent.com/PomeloFoundation/Pomelo.EntityFrameworkCore.MySql/master/icon.png" />](https://github.com/PomeloFoundation/Pomelo.EntityFrameworkCore.MySql)
-[<img align="center" alt="Material Design in XAML" width="26px" src="http://materialdesigninxaml.net/images/MD4XAML.png" />](http://materialdesigninxaml.net/)
+[<img align="left" alt="dotnet" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dot-net.svg" />][visualstudio]
+[<img align="left" alt="C#" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg" />][visualstudio]
+[<img align="left" alt="Xamarin" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xamarin.svg" />][visualstudio]
+[<img align="left" alt="XAML" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xaml.svg" />][visualstudio]
+[<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />](https://www.docker.com/)
+[<img align="left" alt="Pomelo.EntityFrameworkCore.MySql" width="26px" src="https://raw.githubusercontent.com/PomeloFoundation/Pomelo.EntityFrameworkCore.MySql/master/icon.png" />](https://github.com/PomeloFoundation/Pomelo.EntityFrameworkCore.MySql)
+[<img align="left" alt="Material Design in XAML" width="26px" src="http://materialdesigninxaml.net/images/MD4XAML.png" />](http://materialdesigninxaml.net/)
 
 <br />
 
@@ -47,14 +45,14 @@
 
 ### Devices:
 
-|   | <img align="center" alt="Windows" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/windows.svg" /> | <img align="center" alt="Linux Ubuntu" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ubuntu.svg" /> |
+|   | <img align="left" alt="Windows" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/windows.svg" /> | <img align="center" alt="Linux Ubuntu" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ubuntu.svg" /> |
 | :---- | :---- | :---- |
 | CPU | <img alt="AMD" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/amd.svg" /> Ryzen 3800X | - |
 | GPU | <img alt="NVidia" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/nvidia.svg" /> GeForce GTX 1070 | - |
 | RAM | 2x16GB CL16 @ 3200 MHz | - |
 | Motherboard | Gigabyte X570 AORUS MASTER | - |
 
-Also a big fan of [<img alt="Raspberry Pi" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/raspberrypi.svg" />][rasperrypi] Projects & Home Automation with [<img alt="Home Assistant" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/homeassistant.svg" />][hassio]!
+Also a big fan of [<img alt="Raspberry Pi" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/raspberrypi.svg" />][rasperrypi] Projects & Home Automation with [<img alt="Home Assistant" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/homeassistant.svg" />][hassio]!
 
 
 [twitter]: https://twitter.com/DarkIrata
