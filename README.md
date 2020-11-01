@@ -22,13 +22,15 @@
 
 ### Languages, Frameworks, etc:
 
-<img align="left" alt="dotnet" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dot-net.svg" />
-<img align="left" alt="C#" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg" />
-<img align="left" alt="Xamarin" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xamarin.svg" />
-<img align="left" alt="XAML" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xaml.svg" />
-<img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg" />
-<img align="left" alt="Html" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
-<img align="left" alt="CSS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />
+[<img align="left" alt="dotnet" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dot-net.svg" />]()
+[<img align="left" alt="C#" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg" />]()
+[<img align="left" alt="Xamarin" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xamarin.svg" />]()
+[<img align="left" alt="XAML" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xaml.svg" />]()
+[<img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg" />]()
+[<img align="left" alt="Html" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />]()
+[<img align="left" alt="CSS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />]()
+[<img align="left" alt="Pomelo.EntityFrameworkCore.MySql" width="26px" src="https://raw.githubusercontent.com/PomeloFoundation/Pomelo.EntityFrameworkCore.MySql/master/icon.png" />](https://github.com/PomeloFoundation/Pomelo.EntityFrameworkCore.MySql)
+[<img align="left" alt="Material Design in XAML" width="26px" src="http://materialdesigninxaml.net/images/MD4XAML.png" />](http://materialdesigninxaml.net/)
 
 <br />
 
@@ -39,7 +41,7 @@
 [<img align="left" alt="GitExtensions" width="26px" src="https://camo.githubusercontent.com/b84cf97f7183a8c566d21358965af6ad2a01cf6f/68747470733a2f2f63646e2e7261776769742e636f6d2f676974657874656e73696f6e732f676974657874656e73696f6e732f6d61737465722f4c6f676f2f6769742d657874656e73696f6e732d6c6f676f2e737667" />][gitextensions]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 [<img align="left" alt="cmder" width="26px" src="https://raw.githubusercontent.com/cmderdev/cmder/master/icons/cmder.ico" />][cmder]
-[<img align="left" alt="unity" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" />][unity]
+[<img align="left" alt="unity" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/unity.svg" />][unity]
 
 <br />
 
