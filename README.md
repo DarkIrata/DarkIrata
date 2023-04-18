@@ -1,4 +1,4 @@
-## 👨🏻‍💻 I'm a Developer from Germany
+## 👨🏻‍💻 CPU heating expert
 [<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=darkirata&show_icons=true&theme=transparent"/>](https://github.com/DarkIrata/)
 - 🔭 You can't have enough unfinished projects
 - 🌱 Always learning. Currently MAUI, JS and Unity
